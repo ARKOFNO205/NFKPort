@@ -1,0 +1,129 @@
+
+*
+body{
+  background-color:#d9dcd6;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.aboutme{
+  margin-bottom: 20px;
+  padding: 50px;
+  text-align: left;
+  height: 00px;
+  color: darkblue;
+}
+
+.Work{
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 200px;
+  
+}
+
+.Surf-Report {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  background: url(Surf\ Report.jpg);
+  background-size: cover;
+  color: #ffffff;
+}
+
+.Surf-Report:hover{
+  opacity: 0.5;
+}
+
+.light-emitting-diode {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  background-color: #0072bb;
+  background: url(LED.jpg);
+  background-size: cover;
+  color: #ffffff;
+}
+
+.light-emitting-diode:hover{
+  opacity: 0.5;
+}
+
+.social-media-marketing {
+  margin-bottom: 20px;
+  padding: 50px;
+  height: 300px;
+  background-color: #0072bb;
+  background: url(Calculator.jpg);
+  background-size: cover;
+  color: #ffffff;
+}
+
+.social-media-marketing:hover{
+  opacity: 0.5;
+}
+
+
+
+.benefit-lead {
+  margin-bottom: 32px;
+  padding: 50px;
+  height: 300px;
+  background-color: #0072bb;
+  background: url(Pastel.jpg);
+  background-size: cover;
+  color: #ffffff;
+
+}
+
+.benefit-lead:hover{
+  opacity: 0.5;
+}
+
+.benefit-brand {
+  margin-bottom: 32px;
+  padding: 50px;
+  height: 300px;
+  background-color: #0072bb;
+  background: url(Run\ buddy.jpg);
+  background-size: cover;
+  color: #ffffff;
+  
+}
+
+.benefit-brand:hover{
+  opacity: 0.5;
+}
+
+
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    
+    overflow: hidden;
+    
+  
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: white;
+    color: blue;
+    
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #0423aa;
+    color: white;
+  }
